@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+folium
+streamlit-folium
+openmeteo-requests
+requests-cache
+retry-requests
+scikit-learn
+plotly
